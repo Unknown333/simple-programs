@@ -33,7 +33,7 @@ int main()
 	cout << "\n";
 	cout << "7. exit\n";
 	cout << "\n";
-	cout << "press a number from 1-6: ";
+	cout << "press a number from 1-7: ";
 	cin >> letter;
 	switch(letter) {
 		
