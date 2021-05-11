@@ -138,6 +138,7 @@ int main()
 			break;
 		default: cout << "\n";
 		cout << "invalid command!";
+		system("cls");
 		return main();
 			break;
 	}
